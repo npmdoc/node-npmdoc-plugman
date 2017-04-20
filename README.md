@@ -1,4 +1,7 @@
-# api documentation for  plugman (v1.4.1)  [![npm package](https://img.shields.io/npm/v/npmdoc-plugman.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-plugman) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-plugman.svg)](https://travis-ci.org/npmdoc/node-npmdoc-plugman)
+# npmdoc-plugman
+
+#### api documentation for  plugman (v1.4.1)  [![npm package](https://img.shields.io/npm/v/npmdoc-plugman.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-plugman) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-plugman.svg)](https://travis-ci.org/npmdoc/node-npmdoc-plugman)
+
 #### install/uninstall Cordova plugins
 
 [![NPM](https://nodei.co/npm/plugman.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/plugman)
@@ -18,9 +21,7 @@
 ```json
 
 {
-    "author": {
-        "name": "Andrew Lunny"
-    },
+    "author": "Andrew Lunny <alunny@gmail.com>",
     "name": "plugman",
     "description": "install/uninstall Cordova plugins",
     "version": "1.4.1",
@@ -88,62 +89,7 @@
         {
             "name": "Jesse MacFadyen"
         }
-    ],
-    "dist": {
-        "shasum": "6521bae13c03e91f6e52969233cb16b5d1766a1e",
-        "tarball": "https://registry.npmjs.org/plugman/-/plugman-1.4.1.tgz"
-    },
-    "maintainers": [
-        {
-            "name": "agrieve"
-        },
-        {
-            "name": "anis"
-        },
-        {
-            "name": "bennmapes"
-        },
-        {
-            "name": "bowserj"
-        },
-        {
-            "name": "brianleroux"
-        },
-        {
-            "name": "cmarcelk"
-        },
-        {
-            "name": "filmaj"
-        },
-        {
-            "name": "kamrik"
-        },
-        {
-            "name": "kotikov.vladimir"
-        },
-        {
-            "name": "mmocny"
-        },
-        {
-            "name": "purplecabbage"
-        },
-        {
-            "name": "sgrebnov"
-        },
-        {
-            "name": "shazron"
-        },
-        {
-            "name": "shepheb"
-        },
-        {
-            "name": "stevegill"
-        },
-        {
-            "name": "timkim"
-        }
-    ],
-    "directories": {}
+    ]
 }
 ```
 
